@@ -7,10 +7,10 @@ description: "Simple customization for entities in the frontend."
 
 You can use the UI to change the `entity_id` and friendly name of supported entities. To do this:
 
-1. Select the entity, either from the frontend or by clicking the info button next to the entity in the Developer Tools "States" tab.
+1. Select the entity, either from the frontend or by clicking the info button under the current entity id in the Developer Tools "States" tab.
 2. Click on the cog in the right corner of the entity's dialog
 3. Enter the new name or the new entity ID (remember not to change the domain of the entity - the part before the `.`)
-4. Select *Save*
+4. Click *UPDATE*
 
 If your entity is not supported, or you cannot customize what you need via this method, please see below for more options:
 
